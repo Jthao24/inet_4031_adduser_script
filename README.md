@@ -6,5 +6,5 @@
 
 ### **Operation:**
 - To run this code we need to have the create-users.py code access the create-users.input text file, in order to do that we can use one of the two following commands:
-  1. One way to run or execute this code is to use the linux command: sudo ./create-users.py < create-users.input
-  2. The other way to run or execute this code is to use this linux command: cat create-users.input | sudo ./create-users.py
+  1. The first way to run or execute this code is to use the linux command: sudo ./create-users.py < create-users.input
+  2. The second way to run or execute this code is to use the linux command: cat create-users.input | sudo ./create-users.py
